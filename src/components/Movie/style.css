@@ -1,0 +1,15 @@
+.movie {
+  border: 2px solid blue;
+  border-radius: 5px;
+  padding: 15px;
+  display: inline-block;
+  background-color: rgb(243, 243, 232);
+}
+
+h3 {
+  color: darkblue;
+}
+
+.text {
+  color: darkblue;
+}
